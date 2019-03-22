@@ -8,4 +8,4 @@ This is the open-source repository for decidim-beasain, based on [Decidim](https
 Code published under AFFERO GPL v3
 
 ## Create your own app
-If you want to make your own instance of Decidim, do not fork us, just go to Decidim.
+If you want to make your own instance of Decidim, do not fork us, just go to [Decidim](https://github.com/decidim/decidim).
